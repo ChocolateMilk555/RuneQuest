@@ -1,16 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Runequest
+email: Flaze555@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Runequest is a visual novel made in Renpy.
+  The game is a slice of puzzle and manipulation.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: SaradominBrew
+github_username:  ChocolateMilk555
 
 # Build settings
-markdown: kramdown
+markdown: Chocolatemilk
 
 theme: jekyll-theme-time-machine
